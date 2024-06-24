@@ -1,0 +1,14 @@
+/Users/juliofragososilva/Desktop/Alura/ScreenSound-aula-1/ScreenSound/bin/Debug/net6.0/ScreenSound
+/Users/juliofragososilva/Desktop/Alura/ScreenSound-aula-1/ScreenSound/bin/Debug/net6.0/ScreenSound.deps.json
+/Users/juliofragososilva/Desktop/Alura/ScreenSound-aula-1/ScreenSound/bin/Debug/net6.0/ScreenSound.runtimeconfig.json
+/Users/juliofragososilva/Desktop/Alura/ScreenSound-aula-1/ScreenSound/bin/Debug/net6.0/ScreenSound.dll
+/Users/juliofragososilva/Desktop/Alura/ScreenSound-aula-1/ScreenSound/bin/Debug/net6.0/ScreenSound.pdb
+/Users/juliofragososilva/Desktop/Alura/ScreenSound-aula-1/ScreenSound/obj/Debug/net6.0/ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliofragososilva/Desktop/Alura/ScreenSound-aula-1/ScreenSound/obj/Debug/net6.0/ScreenSound.AssemblyInfoInputs.cache
+/Users/juliofragososilva/Desktop/Alura/ScreenSound-aula-1/ScreenSound/obj/Debug/net6.0/ScreenSound.AssemblyInfo.cs
+/Users/juliofragososilva/Desktop/Alura/ScreenSound-aula-1/ScreenSound/obj/Debug/net6.0/ScreenSound.csproj.CoreCompileInputs.cache
+/Users/juliofragososilva/Desktop/Alura/ScreenSound-aula-1/ScreenSound/obj/Debug/net6.0/ScreenSound.dll
+/Users/juliofragososilva/Desktop/Alura/ScreenSound-aula-1/ScreenSound/obj/Debug/net6.0/refint/ScreenSound.dll
+/Users/juliofragososilva/Desktop/Alura/ScreenSound-aula-1/ScreenSound/obj/Debug/net6.0/ScreenSound.pdb
+/Users/juliofragososilva/Desktop/Alura/ScreenSound-aula-1/ScreenSound/obj/Debug/net6.0/ScreenSound.genruntimeconfig.cache
+/Users/juliofragososilva/Desktop/Alura/ScreenSound-aula-1/ScreenSound/obj/Debug/net6.0/ref/ScreenSound.dll
